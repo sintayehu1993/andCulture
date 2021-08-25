@@ -1,0 +1,38 @@
+$detailButton:rgb(80, 77, 77);
+.list-container {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    margin-top: 16px;
+    margin-bottom: 12px;
+    margin-left: 0;
+    margin-right: 0;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    border-radius: 4px;
+}
+.bre-name{
+  display:flex;
+  text-transform: uppercase; 
+ 
+}
+
+.brewery-card {
+  background: white;
+  
+}
+
+
+li {
+  list-style-type: none;
+  
+}
+button{
+  margin-left: 100%;
+}
+
+.link-button-container{
+  display: flex;
+  flex-direction: row;
+}
